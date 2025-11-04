@@ -133,7 +133,7 @@ width: 30%;
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("https://github.com/Kanhaiya957/civil-portfolio/blob/main/profile.jpg");
+    background-image: url("image/https://github.com/Kanhaiya957/civil-portfolio/blob/main/profile.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     border: .4rem solid #fff;
@@ -163,3 +163,4 @@ width: 30%;
     transform-origin: bottom left;
 
 }
+
